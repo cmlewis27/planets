@@ -1,3 +1,3 @@
 #Readme
-My Very first README file
-Additional lead edits. hello. 
+My Very first README 
+Lead Edits Fixed
